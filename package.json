@@ -1,0 +1,15 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "RESTful API in JS",
+  "main": "api.js",
+  "repository": "https://github.com/marronjo/rest-api.git",
+  "author": "marronjo",
+  "license": "Unlicensed",
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^17.4.2",
+    "nodemon": "^2.0.13"
+  }
+}
